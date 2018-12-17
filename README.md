@@ -1,3 +1,7 @@
+# FORKED 
+I have forked this from https://github.com/MKergall/osmbonuspack/ because it did not include house_number which IMO is critical.  The function the app requires is basic, locationFromName and locationFromPoint and as such I do not see too much issue with maintaining a forked version as long as any updates you wish to make respect the addition of house_number here: https://github.com/visfleet/osmbonuspack/blob/master/OSMBonusPack/src/main/java/org/osmdroid/bonuspack/location/GeocoderNominatim.java
+
+
 # About OSMBonusPack
 osmdroid is a library to interact with OpenStreetMap data inside an Android application. It offers an almost full/free replacement to Android map objects: MapView, MapController, Overlays (Marker, Polyline, Polygon), etc.
 
